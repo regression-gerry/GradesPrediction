@@ -1,4 +1,4 @@
-# Supervised-Learning
+# Grades Prediction for two schools in Portugal
 Supervised learning example on students' grades.
 
 Article:
